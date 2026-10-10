@@ -1,0 +1,27 @@
+# Python tarafından oluşturulan geçici dosyalar
+__pycache__/
+*.py[cod]
+
+# Python ve Conda yerel ortamları
+.venv/
+venv/
+env/    
+.conda/
+
+# Veri setleri
+data/
+
+# Eğitilmiş model dosyaları
+models/
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# Yerel ayarlar ve gizli bilgiler
+.env
+.env.*
+!.env.example
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
