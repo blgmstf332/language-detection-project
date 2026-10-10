@@ -25,3 +25,6 @@ models/
 # İşletim sistemi dosyaları
 .DS_Store
 Thumbs.db
+
+# VS Code yerel ayarları
+.vscode/
